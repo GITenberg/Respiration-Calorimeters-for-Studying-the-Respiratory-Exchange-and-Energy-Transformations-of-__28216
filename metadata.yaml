@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '33207'
     url: http://www.gutenberg.org/2009/agents/33207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28216#Respiration-Calorimeters-for-Studying-the-Respiratory-Exchange-and-Energy-Transformations-of-_
 gutenberg_bookshelf: Physiology
 gutenberg_issued: '2009-02-28'
 gutenberg_type: Text
